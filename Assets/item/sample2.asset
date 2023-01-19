@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 612b59d85c281104a810e40d3b54d3b4, type: 3}
+  m_Name: sample2
+  m_EditorClassIdentifier: 
+  item_name: sample2
+  item_image: {fileID: 21300000, guid: 753be488ffe14f1468484c837e6c4b1c, type: 3}
+  item_code: 0
+  item_type: item
+  parts: top
+  item_element: 
+  atk: 0
+  def: 0
+  hp: 0
+  rank: 0
+  enhance: 0
+  tool_tip: second
+  skill_damage_percent: 0
+  skill_hit_box: {fileID: 0}

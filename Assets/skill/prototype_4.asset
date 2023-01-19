@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 612b59d85c281104a810e40d3b54d3b4, type: 3}
+  m_Name: prototype_4
+  m_EditorClassIdentifier: 
+  item_name: prototype_4
+  item_image: {fileID: 21300000, guid: c1c0783e1075603499358370b8157507, type: 3}
+  item_code: 4
+  item_type: skill
+  parts: 
+  item_element: 
+  atk: 0
+  def: 0
+  hp: 0
+  rank: 0
+  enhance: 0
+  skill_cool: 1
+  tool_tip: right down attack
+  skill_damage_percent: 300
+  skill_hit_box: {fileID: 4047750761171594465, guid: 23813e220d620794c9d8be0eab6a02b4, type: 3}
+  hit_box_pivot_x: 1
+  hit_box_pivot_y: 0
+  next_skill: {fileID: 0}
+  previous_skill: {fileID: 0}
+  skill_duration: 0.2
+  first_delay: 0.1
+  last_delay: 0
+  skill_effect: {fileID: 7400000, guid: c86fdc53f013fae42b988f9c63d0ea5e, type: 2}
+  additional_function: {fileID: 5675867229708395315, guid: fc8fcb59239aa8249bf45a719644686b, type: 3}
+  fasten: 0
+  hitbox_x: 2
+  hitbox_y: 2
+  hitbox_rotation: -45
